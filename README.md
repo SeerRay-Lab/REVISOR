@@ -38,9 +38,9 @@ REVISOR achieves impressive results on **VideoMME**, **LongVideoBench**, **MLVU*
 
 ## News
 
-- **[2025/06]** Code, model weights, and training dataset are released!
-- **[2025/03]** REVISOR is accepted to **CVPR 2026**!
-- **[2024/11]** Paper is available on [arXiv](https://arxiv.org/abs/2511.13026).
+- **[2026/06]** Code, model weights, and training dataset are released!
+- **[2026/02]** REVISOR is accepted to **CVPR 2026**!
+- **[2025/11]** Paper is available on [arXiv](https://arxiv.org/abs/2511.13026).
 
 ## Quick Start
 
